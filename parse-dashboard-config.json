@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "serverURL": "https://api.parse.com/1", // Hosted on Parse.com
+      "appId": "app",
+      "masterKey": "master",
+      "javascriptKey": "myJavascriptKey",
+      "restKey": "myRestKey",
+      "appName": "app",
+      "production": true
+    },
+    
+  ]
+}
